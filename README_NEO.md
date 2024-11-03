@@ -91,9 +91,9 @@ https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-com
 
 Είναι μία από τις πιο γνωστές εφαρμογές  με λεπτομερείς προβλέψεις και ειδοποιήσεις για διάφορα καιρικά φαινόμενα σε παγκόσμιο επίπεδο.
 
-[οθόνη 1](https://github.com/PapadoAndreas/test_repo/blob/main/Images/Live_Weather_1.png.jpg)
-[οθόνη 2](https://github.com/PapadoAndreas/test_repo/blob/main/Images/Live_Weather_2.png.jpg)
-[οθόνη 3](https://github.com/PapadoAndreas/test_repo/blob/main/Images/Live_Weather_3.png.jpg)
+[οθόνη 1](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/The%20Weather%20Channel_1.jpg) , 
+[οθόνη 2](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/The%20Weather%20Channel_2.jpg) ,
+[οθόνη 3](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/The%20Weather%20Channel_3.jpg)
 
 Η οθόνη 1  ικανοποιεί τα κριτήρια σχεδιασμού κινητό πλαίσιο χρήσης, μέγεθος και ανάλυση οθόνης ανάλογα με την συσκευή, επίγνωση πλαισίου ως προς την τοποθεσία του χρήστη,  μινιμαλιστικός σχεδιασμός με όμορφα και κατανοητά εικονίδια και πληροφορίες, σύνδεση του συστήματος και πραγματικού κόσμου, ευελιξία στην χρήση και επεκτασιμότητα.
 
