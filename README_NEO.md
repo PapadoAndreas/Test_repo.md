@@ -91,9 +91,9 @@ https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-com
 
 Είναι μία από τις πιο γνωστές εφαρμογές  με λεπτομερείς προβλέψεις και ειδοποιήσεις για διάφορα καιρικά φαινόμενα σε παγκόσμιο επίπεδο.
 
-[οθόνη 1](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/The%20Weather%20Channel_1.jpg) , 
-[οθόνη 2](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/The%20Weather%20Channel_2.jpg) ,
-[οθόνη 3](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/The%20Weather%20Channel_3.jpg)
+[TWC_οθόνη 1](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/The%20Weather%20Channel_1.jpg) , 
+[TWC_οθόνη 2](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/The%20Weather%20Channel_2.jpg) ,
+[TWC_οθόνη 3](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/The%20Weather%20Channel_3.jpg)
 
 Η οθόνη 1  ικανοποιεί τα κριτήρια σχεδιασμού κινητό πλαίσιο χρήσης, μέγεθος και ανάλυση οθόνης ανάλογα με την συσκευή, επίγνωση πλαισίου ως προς την τοποθεσία του χρήστη,  μινιμαλιστικός σχεδιασμός με όμορφα και κατανοητά εικονίδια και πληροφορίες, σύνδεση του συστήματος και πραγματικού κόσμου, ευελιξία στην χρήση και επεκτασιμότητα.
 
@@ -106,9 +106,9 @@ https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-com
 
 Μία τοπική εφαρμογή πρόγνωσης φτιαγμένη για την Ελλάδα, απλοϊκή και κατανοητή για τους χρήστες .
 
-https://github.com/PapadoAndreas/test_repo/blob/main/Images/METEO_XS_PRO_1.png
-https://github.com/PapadoAndreas/test_repo/blob/main/Images/METEO_XS_PRO_2.png
-https://github.com/PapadoAndreas/test_repo/blob/main/Images/METEO_XS_PRO_3.png
+[MEXS_PRO_οθόνη 1](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/METEO_XS_PRO_1.png) ,
+[MEXS_PRO_οθόνη 2](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/METEO_XS_PRO_2.png) ,
+[MEXS_PRO_οθόνη 3](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/METEO_XS_PRO_3.png)
 
 
 Η οθόνη 1 της εφαρμογής βλέπουμε και εδώ να ικανοποιεί τα κριτήρια σχεδιασμού κινητό πλαίσιο χρήσης, μέγεθος και ανάλυση οθόνης ανάλογα με την συσκευή, επίγνωση πλαισίου ως προς την τοποθεσία του χρήστη,  μινιμαλιστικός σχεδιασμός με όμορφα και κατανοητά εικονίδια που δίνουν μια όμορφη εικόνα στον χρήστη και πολλές αλλά όχι υπερβολικές πληροφορίες που θα τον ικανοποιήσουν στα απλά ζητούμενα του για όλες τις ώρες της μέρας .   Σύνδεση του συστήματος και του πραγματικού κόσμου, ευελιξία στην χρήση, απλοϊκότητα  και επεκτασιμότητα.
@@ -122,9 +122,9 @@ https://github.com/PapadoAndreas/test_repo/blob/main/Images/METEO_XS_PRO_3.png
 
 Είναι μία επαγγελματική εφαρμογή  με λεπτομερείς προβλέψεις,  ειδοποιήσεις για διάφορα καιρικά φαινόμενα σε παγκόσμιο επίπεδο με δυνατότητα χρήσης δωρεάν ή με πληρωμή και αυξημένες δυνατότητες και ενημέρωση χωρίς διαφημίσεις.
 
-https://github.com/PapadoAndreas/test_repo/blob/main/Images/Screenshot_20241102_144510_The%20Weather%20Channel_1.jpg
-https://github.com/PapadoAndreas/test_repo/blob/main/Images/Screenshot_20241102_144720_The%20Weather%20Channel_2.jpg
-https://github.com/PapadoAndreas/test_repo/blob/main/Images/Screenshot_20241102_144543_The%20Weather%20Channel_3.jpg
+[LW_Πκ_οθόνη 1](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/Live_Weather_1.png.jpg) ,
+[LW_Πκ_οθόνη 2](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/Live_Weather_2.png.jpg) ,
+[LW_Πκ_οθόνη 3](https://github.com/PapadoAndreas/ge1-PapadoAndreas/blob/main/Images/Live_Weather_3.png.jpg)
 
 Η οθόνη 1 της εφαρμογής ικανοποιεί τα κριτήρια σχεδιασμού κινητό πλαίσιο χρήσης, μέγεθος και ανάλυση οθόνης ανάλογα με την συσκευή, επίγνωση πλαισίου ως προς την τοποθεσία του χρήστη ή τον  χρήστη,  μινιμαλιστικός σχεδιασμός με όμορφα και κατανοητά εικονίδια και πάρα πολλές πληροφορίες. Με μια απλή κύλιση της οθόνης έχουμε γενική πρόβλεψη για όλες τις ώρες της μέρας ή τις επόμενες μέρες.   Σύνδεση του συστήματος και του πραγματικού κόσμου, ευελιξία στην χρήση μεγάλη ακρίβεια και αποτελεσματικότητα και επεκτασιμότητα.
 
