@@ -19,5 +19,6 @@ tags:
 </p>
 <script async src="https://public.codepenassets.com/embed/index.js"></script>
 
+---
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε να κάνει επιπλέον και μέτρηση των λέξεων.
